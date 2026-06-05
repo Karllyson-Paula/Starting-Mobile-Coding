@@ -23,6 +23,6 @@ Este é um aplicativo utilitário versátil desenvolvido em React Native utiliza
 
 🚀 Como Rodar
 
-    https://snack.expo.dev/@bilolastico/multiutility-hub
+    Acesse https://snack.expo.dev/@bilolastico/multiutility-hub
 
     Aguarde o carregamento no simulador ou escaneie o QR Code com o app Expo Go no seu celular.
